@@ -14,4 +14,9 @@ public class Git {
 	public void mul() {
 		System.out.println("mul");
 	}
+
+	public void div() {
+		System.out.println("div");
+
+	}
 }
