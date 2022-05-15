@@ -6,7 +6,12 @@ public class Git {
 		System.out.println("add");
 
 	}
+
 	public void sub() {
 		System.out.println("sub");
+	}
+
+	public void mul() {
+		System.out.println("mul");
 	}
 }
